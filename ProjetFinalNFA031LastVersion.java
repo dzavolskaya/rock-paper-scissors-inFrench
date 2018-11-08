@@ -1,5 +1,5 @@
 /**
- * FV of a simple rock-papper-scissors game in Java in French
+ * FV of a simple rock-paper-scissors game in Java in French
  * (TO DO : NameOfVariables and comment translation)
  * Author : Darya ZAVOLSKAYA, June 2018
  */
