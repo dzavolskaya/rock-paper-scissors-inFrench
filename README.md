@@ -1,2 +1,2 @@
 # rock-paper-scissors-inFrench
-simple game in French
+simple JAVA game in French
